@@ -1,0 +1,3 @@
+export const PAGE_JUMPER_ACTIONS = {
+  SET_CURRENT_PAGE: "SET_CURRENT_PAGE",
+};
